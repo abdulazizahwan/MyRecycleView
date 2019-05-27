@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="str_list">List</string>
+    <string name="str_grid">Grid</string>
+    <string name="str_with_cardview">CardView</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+</resources>
